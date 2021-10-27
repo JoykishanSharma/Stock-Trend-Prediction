@@ -11,4 +11,4 @@
 - scikit-learn ~= 1.0.1
 - TensorFlow ~= 1.0 (GPU version recommended)
 
-## Click Here to [visit the web app]()
+## Click Here to [visit the web app](https://share.streamlit.io/joykishansharma/stock-trend-prediction/app.py)
