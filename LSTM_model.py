@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas_datareader as data
 from sklearn.preprocessing import MinMaxScaler
 # noinspection PyUnresolvedReferences
-# import silence_tensorflow.auto      # for ignoring tensorflow info and warnings
+import silence_tensorflow.auto      # for ignoring tensorflow info and warnings
 from keras.layers import Dense, Dropout, LSTM
 from keras.models import Sequential
 from datetime import date
