@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import pandas_datareader as data
 # noinspection PyUnresolvedReferences
-import silence_tensorflow.auto      # for ignoring tensorflow info and warnings
+# import silence_tensorflow.auto      # for ignoring tensorflow info and warnings
 from keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
 import streamlit as st
